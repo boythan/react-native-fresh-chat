@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/src/debug/shaders"/></dataSet></merger>

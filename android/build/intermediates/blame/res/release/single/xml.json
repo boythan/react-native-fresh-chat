@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/03175990b1548aa5c2e296db76c099bc/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/xml/freshchat_file_provider_paths.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/freshchat-android-rn-0.5.4-SNAPSHOT.aar/aa9b7705f2238d2a2ba9ca0af77b8e1f/res/xml/freshchat_file_provider_paths.xml"
+    }
+]

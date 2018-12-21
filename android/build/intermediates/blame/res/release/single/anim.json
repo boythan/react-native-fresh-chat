@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/03175990b1548aa5c2e296db76c099bc/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/freshchat_slide_down.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/freshchat-android-rn-0.5.4-SNAPSHOT.aar/aa9b7705f2238d2a2ba9ca0af77b8e1f/res/anim/freshchat_slide_down.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/03175990b1548aa5c2e296db76c099bc/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/03175990b1548aa5c2e296db76c099bc/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/freshchat_slide_up.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/freshchat-android-rn-0.5.4-SNAPSHOT.aar/aa9b7705f2238d2a2ba9ca0af77b8e1f/res/anim/freshchat_slide_up.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/03175990b1548aa5c2e296db76c099bc/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/03175990b1548aa5c2e296db76c099bc/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/03175990b1548aa5c2e296db76c099bc/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/mac/vApp_Mobile_X2/node_modules/react-native-freshchat-sdk/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9646cd7f6d87f167ba3e24574685afd8/res/anim/abc_slide_in_bottom.xml"
+    }
+]
